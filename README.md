@@ -15,4 +15,5 @@ Unity Hub 2021.3.30f1
 ## 테스트 환경
 Window 10 Pro
 
-
+## 플레이 영상
+https://www.youtube.com/watch?v=PHvcxZEgZiA
